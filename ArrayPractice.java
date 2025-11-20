@@ -1,12 +1,12 @@
 public class ArrayPractice {
     public static void main(String[] args) {
-        // One-dimensional array
+        One-dimensional array
         int[] nums = {2, 4, 6, 8, 10};
         for (int n : nums) {
             System.out.println(n);
         }
 
-        // Two-dimensional array
+        Two-dimensional array
         int[][] matrix = {
             {1, 2, 3},
             {4, 5, 6}
@@ -20,4 +20,5 @@ public class ArrayPractice {
             System.out.println();
         }
     }
+
 }
